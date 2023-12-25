@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats-weld-six-80.vercel.app/api/top-langs/?username=Code-Solver&layout=compact&theme=dark&size_weight=0&count_weight=1&langs_count=13&hide=CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-weld-six-80.vercel.app/api/top-langs/?username=Code-Solver&layout=compact&theme=dark&size_weight=0&count_weight=1&langs_count=22&hide=CMake,Makefile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Code-Solver/Code-Solver** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
